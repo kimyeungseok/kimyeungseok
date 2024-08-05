@@ -1,5 +1,6 @@
 ## Hi there 👋
 <div>
+  <div>
 ##Tech Stack
   <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
@@ -7,6 +8,7 @@
 <img src="https://img.shields.io/badge/JSP-007396?style=for-flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-007396?style=flat-square&logo=java&logoColor=white"/>
+  </div>
 <br>
   <br>
   <br>
