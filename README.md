@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-Tech Stack
+##Tech Stack
   <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -10,7 +10,7 @@ Tech Stack
 <br>
   <br>
   <br>
-Tools
+##Tools
   <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logocss3&logoColor=white">
@@ -20,7 +20,7 @@ Tools
 <br>
   <br>
   <br>
-DateBase
+##DateBase
   <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
