@@ -8,8 +8,9 @@
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성]<br>
   2023.11 - 2024.06
  </div>
+       캡쳐본 넣기
  <br>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <br>웹개발을 공부하고 직업으로 희망하는 김영석 입니다.</li>항상 배우는 자세로 열심히 하겠습니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -26,6 +27,16 @@
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
+    <br>
+    <div align= "center">
+주요 기능<br>
+- 로그인, 회원가입(이메일인증, 우편번호검색)<br>
+- 상품검색, 상품조회<br>
+- 장바구니, 주문(카카오페이결제)<br>
+- 후기게시판, Q&A 게시판<br>
+- 관리자(상품관리, 회원관리, 주문관리)<br>
+    </div>
+    <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/92ef99ea460b41c9ae4b064782221dc7?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://feline-sailboat-dab.notion.site/b0d3f976e48a4916b8ce7e5c7c7ca266?pvs=4"> </a>
