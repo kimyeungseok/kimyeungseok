@@ -7,7 +7,7 @@
   2023.11 - 2024.06
  </div>
  
-       캡쳐본 넣기
+       프로젝트 로고이미지 넣고 프로젝트캡쳐본 넣기
  <br>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
     </div>
