@@ -1,6 +1,14 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=9cf7e8&height=120&text=Welcome%20To%20My%20GitHub&animation=&fontColor=000000&fontSize=50" />
     </div>
+     <div align= "center"> 
+    <br>
+    📚 Experience 📚
+ <div style="display:flex; flex-direction:row;">
+대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성]<br>
+  2023.11 - 2024.06
+ </div>
+ <br>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 김영석입니다! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <br>웹개발을 공부하고 직업으로 희망하는 김영석 입니다.</li>항상 배우는 자세로 열심히 하겠습니다! </div> 
