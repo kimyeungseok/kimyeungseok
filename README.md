@@ -1,8 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=9cf7e8&height=120&text=Welcome%20To%20My%20GitHub&animation=&fontColor=000000&fontSize=50" />
-    </div>
-     <div align= "center"> 
-    <br>
+   
+   
     📚 Experience 📚
  <div style="display:flex; flex-direction:row;">
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성]<br>
