@@ -6,7 +6,7 @@
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성]<br>
   2023.11 - 2024.06
  </div>
- </div>
+ 
        캡쳐본 넣기
  <br>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
